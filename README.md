@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🤖 I'm interested in all things AI.
+- 🏠 I have a deep understanding of the mortgage operations process flow and tech stack. I'm interested in all things that automate and simplify the messiness.
+- 🎿 I enjoy skiing and am interested in all new technology and AI in this sector.
 
 <!--
 **christinejarz/christinejarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
